@@ -37,7 +37,7 @@ dependencies = [
   "pytorch3d==0.7.9+d9839a9pt2.12.0cu132",
   "pyvista>=0.48",
   "smplx>=0.1",
-  "torch==2.12.0",
+  "torch==2.12.1",
   "trimesh[easy]>=4.12.2",
   "wrapt>=2"
 ]
